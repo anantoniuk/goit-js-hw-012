@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-012",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anantoniuk/goit-js-hw-012.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anantoniuk/goit-js-hw-012/issues"
+  },
+  "homepage": "https://github.com/anantoniuk/goit-js-hw-012#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.16.4"
+  }
+}
